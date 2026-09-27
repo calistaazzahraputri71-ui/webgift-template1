@@ -44,7 +44,7 @@ const CONFIG = {
 
     playlistTitle: "Shape of My Heart",
     playlistLinkText: "putar sekarang",
-    playlistUrl: "#",
+    playlistUrl: "https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D", 
 
     signoffText: "sampai jumpa di kenangan berikutnya.",
     fromText: "— dari aku, untukmu",
@@ -61,7 +61,7 @@ const CONFIG = {
     musicSrc: "audio/soundTrack.mp3",
     // Gambar/foto untuk widget musik — pakai path file gambar kamu, contoh: "foto-kita.jpg"
     // Biarkan null kalau belum ada, nanti fallback ke ikon polos.
-    musicCoverImage: "img/iconmusik..jpg"
+    musicCoverImage: "img/iconmusik.jpg"
 };
 
 /* ======================================================================
