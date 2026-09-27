@@ -34,15 +34,15 @@ const CONFIG = {
     // Placeholder foto — ganti isi array ini dengan URL foto asli kamu nanti
     // contoh: { src: "foto1.jpg", caption: "waktu itu..." }
     photos: [
-        { src: "img/foto1.jpg", caption: "taruh foto pertama di sini" },
-        { src: "img/foto2.jpg", caption: "taruh foto kedua di sini" },
-        { src: "img/foto4.jpg", caption: "taruh foto ketiga di sini" }
+        { src: "gambar/foto1.jpg", caption: "taruh kenangan pertama" },
+        { src: "gambar/foto2.jpg", caption: "taruh kenangan kedua" },
+        { src: "gambar/foto3.jpg", caption: "taruh kenangan ketiga" }
     ],
 
     galleryEyebrow: "sekeping waktu",
     galleryTitle: "galeri kenangan",
 
-    playlistTitle: "I lay my love on you",
+    playlistTitle: "Shape of My Heart",
     playlistLinkText: "putar sekarang",
     playlistUrl: "#",
 
@@ -51,13 +51,13 @@ const CONFIG = {
 
     // Pesan tambahan sebelum kartu playlist di bagian penutup — kosongkan ("")
     // kalau tidak mau pakai catatan tambahan ini.
-    closingMessage: "Ini lagu yang selalu ngingetin aku sama kamu. Dengerin sambil inget semua yang udah kita lewati ya.",
+    closingMessage: "aku puterin lagu ini tiap kangen kamu. bukan tentang menang atau kalah, tapi tentang aku yang selalu milih kamu, dalam bentuk hati yang apa adanya.",
     // Foto untuk kartu playlist penutup — isi path foto kamu, biarkan null kalau belum ada.
     closingCoverImage: null,
 
     // Widget musik melayang — ganti musicSrc dengan path file audio kamu (mp3),
     // biarkan null kalau belum ada filenya (widget tetap jalan secara visual).
-    musicTitle: "I Lay My Love On You",
+    musicTitle: "Shape of My Heart",
     musicSrc: "audio/soundTrack.mp3",
     // Gambar/foto untuk widget musik — pakai path file gambar kamu, contoh: "foto-kita.jpg"
     // Biarkan null kalau belum ada, nanti fallback ke ikon polos.
